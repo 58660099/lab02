@@ -1,8 +1,8 @@
 {
-    "remotePath": "/export/b/y58/58660099",
+    "remotePath": "/export/b/y58/58660099/",
     "host": "angsila.cs.buu.ac.th",
-    "username": "58660099",
-    "password": "58660099",
+    "username": "it58660099",
+    "password": "it58660099",
     "port": 22,
     "secure": false,
     "protocol": "sftp",
